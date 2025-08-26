@@ -54,21 +54,21 @@ Contract ID: ST2RXYN7B9VK711Y7V5BH7FNF2F7191HPG09CH6AD.privacy-compliance-tracke
 ![alt text](image.png)
 
 **Mainnet Deployment:**
-- Contract Address: `[To be added]`
-- Transaction Hash: `[To be added]`
-- Block Number: `[To be added]`
-- Gas Used: `[To be added]`
+- Contract Address: 
+- Transaction Hash: 
+- Block Number: 
+- Gas Used: 
 
 **Testnet Deployment:**
-- Contract Address: `[To be added]`
-- Network: `[To be specified]`
-- Transaction Hash: `[To be added]`
-- Block Number: `[To be added]`
+- Contract Address: 
+- Network: 
+- Transaction Hash: 
+- Block Number: 
 
 **Contract Verification:**
-- Source Code Verified: `[To be confirmed]`
-- Compiler Version: `[To be added]`
-- Optimization: `[To be specified]`
+- Source Code Verified: 
+- Compiler Version: 
+- Optimization: 
 
 ---
 
@@ -97,4 +97,5 @@ We welcome contributions! Please read our contributing guidelines and submit pul
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Support
+
 For support and questions, please open an issue on our GitHub repository or contact our development team.
