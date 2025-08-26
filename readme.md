@@ -53,23 +53,6 @@ The ultimate goal is to create a global standard for privacy compliance tracking
 Contract ID: ST2RXYN7B9VK711Y7V5BH7FNF2F7191HPG09CH6AD.privacy-compliance-tracker
 ![alt text](image.png)
 
-**Mainnet Deployment:**
-- Contract Address: 
-- Transaction Hash: 
-- Block Number: 
-- Gas Used: 
-
-**Testnet Deployment:**
-- Contract Address: 
-- Network: 
-- Transaction Hash: 
-- Block Number: 
-
-**Contract Verification:**
-- Source Code Verified: 
-- Compiler Version: 
-- Optimization: 
-
 ---
 
 ## Getting Started
@@ -99,3 +82,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Support
 
 For support and questions, please open an issue on our GitHub repository or contact our development team.
+
